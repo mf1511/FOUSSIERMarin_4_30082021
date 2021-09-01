@@ -45,7 +45,7 @@ a:hover {
 }
 
 .bloc-lg {
-    padding: 100px 50px;
+    padding: 70px 50px;
 }
 
 .bloc-md {
@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #000!important;
 }
 
 .container {
@@ -753,7 +753,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(57, 39, 22, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -775,7 +775,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #F2D4AA!important;
 }
 
 .btn-atomic-tangerine {
@@ -1039,4 +1039,62 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+
+
+
+.titre__footer{
+    font-weight: bold;
+    color: #202020!important;
+    font-size: 16px;
+}
+
+.text__intro{
+    font-size: 24px;
+    text-align: center;
+    justify-content: center;
+    padding:0 10rem 0 10rem;
+    color: #333!important;
+    margin: 1rem;
+}
+
+.text__citation{
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    padding:0 5rem 0 5rem;
+    color: #333!important;
+    margin: 0rem;
+}
+
+.text__realisations{
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    padding:0 5rem 0 5rem;
+    color: #636d76!important;
+    margin: 0rem;
+}
+
+.nom__pdg{
+    font-size: 14px;
+    color: rgb(46, 46, 46)!important;
+}
+
+
+.main{
+    padding: 0 50px;
+}
+
+.img-responsive{
+    width: 100%;
+}
+
+.social{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    
 }

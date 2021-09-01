@@ -7769,7 +7769,7 @@ button.close {
 .panel-body:after,
 .panel-body:before,
 .row:after,
-.row:before {
+ {
     display: table;
     content: " "
 }
