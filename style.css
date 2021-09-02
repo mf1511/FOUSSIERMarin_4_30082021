@@ -45,7 +45,7 @@ a:hover {
 }
 
 .bloc-lg {
-    padding: 70px 50px;
+    padding: 100px 50px;
 }
 
 .bloc-md {
@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #000!important;
+    color: #575757!important;
 }
 
 .container {
@@ -775,7 +775,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F2D4AA!important;
+    color: #F3976C!important;
 }
 
 .btn-atomic-tangerine {
@@ -1040,7 +1040,6 @@ h4 {
         text-align: center;
     }
 }
-
 
 
 
