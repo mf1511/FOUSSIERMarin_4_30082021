@@ -971,3 +971,8 @@ a:focus, button:focus{
     -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 12px #000;
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 12px #000;
 }
+
+.descri-contact{
+    font-size: 15px;
+    color: #fff!important;
+}
